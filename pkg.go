@@ -1,4 +1,6 @@
-package pkg
+package irr
+
+import "fmt"
 
 func PrintHel(){
 
