@@ -4,7 +4,7 @@ import "fmt"
 
 func PrintHel(){
 
-  fmt.Println("this is on")
+  fmt.Println("this is incompitale version")
 
 }
 
